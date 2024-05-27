@@ -41,9 +41,14 @@ Our system not only facilitates blood donation but also provides valuable insigh
    ```
 4. Access the application through your web browser at `http://localhost:5000`.
 
-## Contributing
+## Contributors
 
-We welcome contributions from the community! Feel free to open issues or submit pull requests.
+Thank you to the following contributors who participated in this project:
+
+- [@yuvrajSingh930](https://github.com/yuvrajSingh930)
+- [@iam-buddhi](https://github.com/iam-buddhi)
+- [@username3](https://github.com/username3)
+
 
 
 ---
