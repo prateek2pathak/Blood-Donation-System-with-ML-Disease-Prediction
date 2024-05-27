@@ -1,6 +1,3 @@
-Sure, here's a sample README file for your blood donation system with ML disease prediction system:
-
----
 
 # Blood Donation System with ML Disease Prediction
 
@@ -41,10 +38,3 @@ Our system not only facilitates blood donation but also provides valuable insigh
    ```
 4. Access the application through your web browser at `http://localhost:5000`.
 
-
-
-
-
----
-
-Feel free to customize it further to fit your project's specifics!
