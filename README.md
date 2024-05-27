@@ -5,7 +5,7 @@ Welcome to our Blood Donation System with Machine Learning Disease Prediction!
 
 ## Introduction
 
-Our system not only facilitates blood donation but also provides the valuable insights into potential health risks using machine learning algorithms. By donating blood, users can receive a comprehensive report indicating possible diseases they may be predisposed to.
+Our system not only facilitates blood donation but also provides valuable insights into potential health risks using machine learning algorithms. By donating blood, users can receive a comprehensive report indicating possible diseases they may be predisposed to.
 
 ## Features
 
