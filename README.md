@@ -22,7 +22,7 @@ Our system not only facilitates blood donation but also provides valuable insigh
 - **HTML/CSS/JavaScript**: Frontend development for user interaction.
 - **MongoDB**: Database management for storing user data.
 
-## Installation
+## Installations.
 
 1. Clone the repository:
    ```bash
