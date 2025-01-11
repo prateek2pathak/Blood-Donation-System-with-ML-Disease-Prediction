@@ -43,7 +43,7 @@ Our system not only facilitates blood donation but also provides valuable insigh
 
 2.Prateek Pathak (prateek2pathak)
 
-3.Buddhisagar Panjiyar (iam-buddhi)
+3.Buddhi Sagar Panjiyar (iam-buddhi)
 
 4.Yuvraj Siangh (yuvrajSingh930)
 
